@@ -1,6 +1,6 @@
-👋 Hi, I’m @syeedsaquib
-👀 Interested in Research and development
-🌱 Learning Web dev, ML & Data Science 
+-👋 Hi, I’m @syeedsaquib
+-👀 Interested in Research and development
+-🌱 Learning Web dev, ML & Data Science 
 
 <!---
 syeedsaquib/syeedsaquib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
