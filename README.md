@@ -9,7 +9,7 @@ syeedsaquib/syeedsaquib is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ![Syeed's github stats](https://github-readme-stats.vercel.app/api/?username=syeedsaquib&theme=prussian&show_icons=true&count_private=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=syeedsaquib&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syeedsaquib)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=syeedsaquib&theme=dark&background=000000)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syeedsaquib)](https://github.com/anuraghazra/github-readme-stats)
 
 
