@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @syeedsaquib
-- 👀 Interested in Research and development
+- 👀 Interested in R&D
 - 🌱 Learning Web dev, ML & Data Science 
 
 <!---
