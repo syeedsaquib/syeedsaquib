@@ -9,7 +9,7 @@
 
  <a href="https://www.linkedin.com/in/syeed-mohd-saquib-b41b40234/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a> 
 
 
 ---
