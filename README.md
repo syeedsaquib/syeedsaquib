@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SYEED MOHD SAQUIB  :smiley:</h1> 
 
 
-- 🔭 I’m currently working on **ExpressJS**
+- 🔭 I’m currently working on **Python**
 - 🌱 I’m currently learning **ML & Data Science**
 - 👀 Interest in **Research & Development**
 - 💬 Talk about **Algorithm, Development & Research**
