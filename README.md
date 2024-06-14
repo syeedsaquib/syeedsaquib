@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Python**
 - 🌱 I’m currently learning **ML & Data Science**
 - 👀 Interest in **Research & Development**
-- 💬 Talk about **Algorithm, Development & Research**
+- 💬 Talk about **ML, AI, Web3, Research**
 - 📫 How to reach me: **syeedmsaquib@gmail.com**
 
  <a href="https://www.linkedin.com/in/S-yeed/">
